@@ -26,6 +26,7 @@ p {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 28px;
     font-weight: 600;
+    margin: 0 auto;
 }
 
 a:visited {
@@ -34,4 +35,9 @@ a:visited {
 
 a:link {
     text-decoration: none;
+}
+
+#description {
+    color: #ffffff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
