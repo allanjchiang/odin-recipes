@@ -1,13 +1,37 @@
 h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    color: #222222;
+    color: #ffffff;
     text-align: center;
+    font-size: 76px;
+    margin: 0 auto;
 }
 
 .recipes {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 16px;
+    font-size: 14px;
     color: #4d4d4d;
     list-style: none;
+    margin: 0 auto;
+}
+
+div {
+    background-color: #4D52CC;
+    padding: 86px;
+}
+
+p {
+    color: #ede909;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 28px;
+    font-weight: 600;
+}
+
+a:visited {
+    color: #ede909;
+}
+
+a:link {
+    text-decoration: none;
 }
