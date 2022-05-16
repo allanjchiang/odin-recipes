@@ -3,7 +3,7 @@ h1 {
     color: #ffffff;
     text-align: center;
     font-size: 76px;
-    margin: 0 auto;
+    margin: 15px auto;
 }
 
 .recipes {
@@ -12,7 +12,6 @@ h1 {
     font-size: 14px;
     color: #4d4d4d;
     list-style: none;
-    margin: 0 auto;
 }
 
 div {
@@ -26,7 +25,7 @@ p {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 28px;
     font-weight: 600;
-    margin: 0 auto;
+    margin: 20px;
 }
 
 a:visited {
@@ -40,4 +39,6 @@ a:link {
 #description {
     color: #ffffff;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    padding: 200px auto;
 }
